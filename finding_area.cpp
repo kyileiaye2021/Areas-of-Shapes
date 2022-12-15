@@ -1,7 +1,4 @@
-//Kyi Lei Aye
-//CS002_77215:Midterm2_Prompt_1
 //Finding_areas_of_the_shapes
-//Instructor:Hilario_Balajadia
 //Last_Edited_Date:10/31/2022
 
 #include <iostream>
